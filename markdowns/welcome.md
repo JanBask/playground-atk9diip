@@ -21,12 +21,13 @@ The more third-party programming advancements Microsoft can bolster over all the
 
 ### How and Why To Create an SQL Database on Azure?
 How would your advantage by making a SQL database on Microsoft Azure? For a certain one thing, moving databases among machines and cloud conditions turns out to be simple and quick. Also, you can deal with this without making changes to your applications, and keeping in mind that keeping up your on-premises framework flawless. Your application rationale additionally profits by having snappy access to concentrated information stockpiling, particularly when your application is relied upon to keep running on various machines and areas. Set up a SQL Database on Azure and you never again need to set up machines in topographically scattered areas. Simply store numerous databases as MS Azure Blobs and makes the neighborhood and virtual databases by executing Transact-SQL contents. Look at different advantages of making a SQL database on MS Azure:
-•	Limitless capacity 
-•	Lowered costs (because of decreased equipment overhead) 
-•	High accessibility 
-•	Quick, simple and solid fiasco recuperation 
-•	Separation of capacity from processing brings upgraded security benefits 
-•	Instant reinforcements and reestablishes for databases by means of the Azure Snapshot include
+
+1.	Limitless capacity 
+2.	Lowered costs (because of decreased equipment overhead) 
+3.	High accessibility 
+4.	Quick, simple and solid fiasco recuperation 
+5.	Separation of capacity from processing brings upgraded security benefits 
+6.	Instant reinforcements and reestablishes for databases by means of the Azure Snapshot include
 
 ### Steps to Set Up a SQL Database On Azure Portal
 In this instructional exercise, we'll be showing you how to:
