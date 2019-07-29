@@ -37,7 +37,8 @@ In this instructional exercise, we'll be showing you how to:
 3.	In the SQL Database settings window, under the Server àConfigure required settings option, design your database and server subtleties. You can either make a pristine database server on the off chance that you like. We'll run with a current server for the motivations behind the instructional exercise.
 4.	Now, under Select source à Blank Database choice, select Sample. Give a name to your new database – we'll go to the Azure Database. Return to the SQL database window, where you'll see your new database's name under the Select sample
 5.	Now open the Azure Starboard and snap Browse all to affirm that your new Azure Database is recorded on the web.
-Note: Your SQL database creation isn't finished until you design the settings for Collation, Resource gathering and Pricing level. It would be ideal if you check the Azure Resource Manager Overview to find out about designing Azure asset gatherings. Concerning Collation, allude to the Unicode Support for more data. You can scale the Pricing level here and there for your database whenever later.
+
+['Note: Your SQL database creation isn't finished until you design the settings for Collation, Resource gathering and Pricing level. It would be ideal if you check the Azure Resource Manager Overview to find out about designing Azure asset gatherings. Concerning Collation, allude to the Unicode Support for more data. You can scale the Pricing level here and there for your database whenever later.']
 
 #### Steps to Configure Firewall Settings
 You'll have to design firewall settings so as to associate with your new Azure Database from your customer PC. To do that follow the steps given here:
