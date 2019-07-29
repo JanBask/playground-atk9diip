@@ -1,9 +1,15 @@
-# Welcome!
+# install MySQL on Ubuntu
 
 MySQL is one of the most popular and open-source database management systems. It was released in 2016 with an open-source license. If you are a Linux user or Admin and want to use MySQL with Linux then it is a secure and stable operating system which is also open source and is used by a number of organizations. MySQL is commonly installed as part of LAMP stack i.e Linux, Apache, MySQL, PHP/Perl/Python and is used to manage data. 
 
 
 Today, here in this post we will discuss the installation steps of MySQL on Ubuntu Server 18.04 that is a version of the Linux operating system itself.
+
+There are two ways to install MySQL on Ubuntu, as per the first method the user or Ubuntu admin can simply update the package index and install MySQL-server package. After this installation the user can run the security script that is given below:
+
+•	$ sudo apt update
+•	$ sudo apt install MySQL-server
+•	$ sudo mysql_secure_installation
 
 # Template Resources
 
