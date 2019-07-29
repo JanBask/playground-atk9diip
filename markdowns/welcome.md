@@ -1,9 +1,9 @@
 # Welcome!
 
-This Basic template lets you get started quickly with a simple working example. If it is your first contribution then you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) document.
+MySQL is one of the most popular and open-source database management systems. It was released in 2016 with an open-source license. If you are a Linux user or Admin and want to use MySQL with Linux then it is a secure and stable operating system which is also open source and is used by a number of organizations. MySQL is commonly installed as part of LAMP stack i.e Linux, Apache, MySQL, PHP/Perl/Python and is used to manage data. 
 
 
-Please refer to the [documentation](https://tech.io/doc) to learn more about adding programming exercises within your contribution.
+Today, here in this post we will discuss the installation steps of MySQL on Ubuntu Server 18.04 that is a version of the Linux operating system itself.
 
 # Template Resources
 
